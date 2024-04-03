@@ -1,0 +1,38 @@
+<!--
+© Agni Ilango
+SPDX-License-Identifier: MPL-2.0
+-->
+
+<!doctype html>
+<html>
+  <head>
+    <title>Say hello</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="ar-layers-initial-browser-visibility" content="visible" />
+
+    <style>
+      body {
+        display: grid;
+        height: 100vh;
+        align-items: center;
+      }
+
+      form {
+        display: grid;
+        gap: 16px;
+      }
+
+      input,
+      button {
+        font-size: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <input id="name" type="text" placeholder="Enter your name" />
+      <button type="submit">Say hello</button>
+    </form>
+    <script type="module" src="./experience.ts"></script>
+  </body>
+</html>

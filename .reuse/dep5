@@ -1,0 +1,36 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: AR Layers
+Upstream-Contact: Agni Ilango
+Source: https://github.com/lookup-land/ar-layers
+
+Files: bun.lockb
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .eslintignore
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .eslintrc.cjs
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .gitignore
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .prettierrc.cjs
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: package.json
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: tsconfig.json
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: vite.config.ts
+Copyright: No Rights Reserved
+License: CC0-1.0
